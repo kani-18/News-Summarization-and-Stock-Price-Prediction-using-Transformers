@@ -1,0 +1,10 @@
+transformers
+torch
+streamlit
+yfinance
+pandas
+numpy
+scikit-learn
+plotly
+beautifulsoup4
+datasets
